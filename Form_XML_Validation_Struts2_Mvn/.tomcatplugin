@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>/webroot</rootDir>
+    <exportSource>false</exportSource>
+    <reloadable>true</reloadable>
+    <redirectLogger>false</redirectLogger>
+    <updateXml>true</updateXml>
+    <warLocation></warLocation>
+    <extraInfo></extraInfo>
+    <webPath>pippo</webPath>
+    <webClassPathEntries>
+        <webClassPathEntry>/Form_XML_Validation_Struts2_Mvn/target/classes</webClassPathEntry>
+        <webClassPathEntry>C:/Documents and Settings/W947523/.m2/repository/commons-fileupload/commons-fileupload/1.2.1/commons-fileupload-1.2.1.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Documents and Settings/W947523/.m2/repository/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Documents and Settings/W947523/.m2/repository/javassist/javassist/3.8.0.GA/javassist-3.8.0.GA.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Documents and Settings/W947523/.m2/repository/log4j/log4j/1.2.14/log4j-1.2.14.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Documents and Settings/W947523/.m2/repository/ognl/ognl/3.0/ognl-3.0.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Documents and Settings/W947523/.m2/repository/org/apache/struts/struts2-core/2.2.1/struts2-core-2.2.1.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Documents and Settings/W947523/.m2/repository/org/apache/struts/xwork/xwork-core/2.2.1/xwork-core-2.2.1.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Documents and Settings/W947523/.m2/repository/org/freemarker/freemarker/2.3.16/freemarker-2.3.16.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.6.0_25/jre/lib/charsets.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.6.0_25/jre/lib/ext/dnsns.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.6.0_25/jre/lib/ext/localedata.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.6.0_25/jre/lib/ext/sunjce_provider.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.6.0_25/jre/lib/ext/sunmscapi.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.6.0_25/jre/lib/ext/sunpkcs11.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.6.0_25/jre/lib/jce.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.6.0_25/jre/lib/jsse.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.6.0_25/jre/lib/resources.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.6.0_25/jre/lib/rt.jar</webClassPathEntry>
+        <webClassPathEntry>C:/Program Files/Java/jdk1.6.0_25/lib/tools.jar</webClassPathEntry>
+        <webClassPathEntry>org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER</webClassPathEntry>
+        <webClassPathEntry>org.maven.ide.eclipse.MAVEN2_CLASSPATH_CONTAINER</webClassPathEntry>
+    </webClassPathEntries>
+</tomcatProjectProperties>
